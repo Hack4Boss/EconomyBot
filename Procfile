@@ -1,1 +1,1 @@
-web:node index.js
+work node botConfig.js
